@@ -6,7 +6,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("../img/fondoesport.jfif");
+    background-image: url("./fondoesport.jfif");
 }
 img{
     background-color: rgb(9, 9, 153,0.9);

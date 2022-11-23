@@ -9,12 +9,22 @@ header{
     background-image: url("../img/fondoesport.jfif");
 }
 img{
-    background-color: rgb(9, 9, 153,0.9);
+    background-color: rgb(117, 0, 163);
     border-radius: 50%;
     max-width: 50%;
 }
+.logo{
+    
+    display: flex;
+    flex-direction: row;
+    color: rgb(117, 0, 163);
+    align-items: center;
+    -webkit-text-stroke: 0.5px white; /* width and color */
+
+    font-family: sans; color: rgb(117, 0, 163);
+}
 h2{
-    background-color: rgb(9, 9, 153);
+    background-color: rgb(117, 0, 163);
     color: white;
 }
 .container{
@@ -46,4 +56,5 @@ article{
   footer{
     background-color: gray;
     color: black;
+    margin-bottom: auto;
   }
